@@ -102,16 +102,106 @@ Identifying design properties in mockup designs is crucial for several reasons:
 6. **Quality Assurance**: Helps maintain design quality and reduces inconsistencies
 7. **Accessibility**: Ensures proper contrast ratios and readable typography for all users
 8. **Responsive Design**: Enables proper scaling and adaptation across different screen sizes
-Project Roles and Responsibilities
-Role	Responsibilities
-Project Manager	Oversees timeline, coordinates team, manages deliverables
-Frontend Developers	Implements UI components, ensures responsive design
-Backend Developers	Builds APIs, manages database, implements business logic
-Designers	Creates mockups, maintains design system, ensures UX quality
-QA/Testers	Writes test cases, performs testing, reports bugs
-DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
-Product Owner	Defines requirements, prioritizes features, represents stakeholders
-Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
+# Project Roles and Responsibilities
+
+## Project Manager
+**Key Responsibilities:**
+- **Timeline Management**: Creates and maintains project schedules, tracks milestones, and ensures timely delivery
+- **Team Coordination**: Facilitates communication between different team members and departments
+- **Resource Allocation**: Manages team resources, budgets, and external dependencies
+- **Risk Management**: Identifies potential project risks and develops mitigation strategies
+- **Stakeholder Communication**: Reports progress to stakeholders and manages expectations
+- **Quality Assurance**: Ensures deliverables meet quality standards and project requirements
+
+**Contribution to Success**: Acts as the central point of coordination, ensuring all team members are aligned with project goals and deadlines.
+
+## Frontend Developers
+**Key Responsibilities:**
+- **UI Implementation**: Convert design mockups into functional, responsive user interfaces
+- **Component Development**: Create reusable UI components following design system guidelines
+- **User Experience**: Implement intuitive navigation and interactive elements
+- **Performance Optimization**: Ensure fast loading times and smooth user interactions
+- **Cross-browser Compatibility**: Test and ensure functionality across different browsers
+- **Mobile Responsiveness**: Implement responsive design for various screen sizes
+- **Accessibility**: Ensure the application meets WCAG accessibility guidelines
+
+**Contribution to Success**: Creates the user-facing interface that directly impacts user experience and engagement.
+
+## Backend Developers
+**Key Responsibilities:**
+- **API Development**: Design and implement RESTful APIs for data exchange
+- **Database Design**: Create and maintain database schemas and relationships
+- **Business Logic**: Implement core application functionality and algorithms
+- **Security**: Implement authentication, authorization, and data protection measures
+- **Performance**: Optimize database queries and API response times
+- **Integration**: Connect frontend with backend services and third-party APIs
+- **Documentation**: Create API documentation and technical specifications
+
+**Contribution to Success**: Provides the technical foundation and data management that powers the application's functionality.
+
+## Designers
+**Key Responsibilities:**
+- **User Research**: Conduct user interviews and analyze user behavior patterns
+- **Wireframing**: Create low-fidelity wireframes for user flow planning
+- **Visual Design**: Develop high-fidelity mockups with consistent branding
+- **Design System**: Maintain and update the component library and style guide
+- **User Testing**: Conduct usability testing and iterate based on feedback
+- **Prototyping**: Create interactive prototypes to demonstrate user flows
+- **Accessibility**: Ensure designs meet accessibility standards and guidelines
+
+**Contribution to Success**: Shapes the user experience and visual identity, directly impacting user satisfaction and conversion rates.
+
+## QA/Testers
+**Key Responsibilities:**
+- **Test Planning**: Develop comprehensive test strategies and test cases
+- **Functional Testing**: Verify all features work as specified in requirements
+- **Regression Testing**: Ensure new changes don't break existing functionality
+- **Performance Testing**: Test application performance under various load conditions
+- **Security Testing**: Identify and report security vulnerabilities
+- **User Acceptance Testing**: Validate that the application meets user requirements
+- **Bug Tracking**: Document, prioritize, and track bug resolution
+- **Automation**: Develop and maintain automated test suites
+
+**Contribution to Success**: Ensures application quality and reliability, preventing issues from reaching end users.
+
+## DevOps Engineers
+**Key Responsibilities:**
+- **Infrastructure Management**: Set up and maintain cloud infrastructure and servers
+- **CI/CD Pipeline**: Implement and maintain continuous integration and deployment processes
+- **Monitoring**: Set up application monitoring, logging, and alerting systems
+- **Security**: Implement security measures and compliance requirements
+- **Scalability**: Design systems that can handle increased load and traffic
+- **Backup & Recovery**: Implement data backup and disaster recovery procedures
+- **Environment Management**: Manage development, staging, and production environments
+- **Performance Optimization**: Monitor and optimize system performance
+
+**Contribution to Success**: Ensures reliable, scalable, and secure deployment of the application.
+
+## Product Owner
+**Key Responsibilities:**
+- **Requirements Definition**: Gather and document detailed product requirements
+- **Feature Prioritization**: Prioritize features based on business value and user needs
+- **Stakeholder Management**: Communicate with business stakeholders and end users
+- **User Stories**: Create and maintain user stories and acceptance criteria
+- **Product Vision**: Define and communicate the product vision and roadmap
+- **Market Research**: Analyze market trends and competitor products
+- **Decision Making**: Make key product decisions and trade-offs
+- **Success Metrics**: Define and track key performance indicators (KPIs)
+
+**Contribution to Success**: Ensures the product meets business objectives and user needs through strategic planning and requirement management.
+
+## Scrum Master
+**Key Responsibilities:**
+- **Agile Facilitation**: Facilitate Scrum ceremonies (sprint planning, daily standups, retrospectives)
+- **Team Coaching**: Coach team members on Agile principles and practices
+- **Impediment Removal**: Identify and help remove obstacles blocking team progress
+- **Process Improvement**: Continuously improve team processes and workflows
+- **Team Dynamics**: Foster collaboration and communication within the team
+- **Sprint Management**: Ensure sprints are properly planned and executed
+- **Metrics Tracking**: Track and report on team velocity and sprint metrics
+- **Conflict Resolution**: Help resolve conflicts and improve team relationships
+
+**Contribution to Success**: Ensures efficient team collaboration and continuous improvement through Agile methodologies.
 UI Component Patterns
 Planned Components
 Navbar
